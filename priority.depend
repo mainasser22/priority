@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652755025 source:c:\users\nasser\documents\codeblocks\first\priority\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<iomanip>
+
